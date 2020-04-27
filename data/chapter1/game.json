@@ -1,0 +1,589 @@
+{
+  "start": "1",
+  "music": "sounds/music_test.mp3",
+  "panels": [
+    {
+      "id": "1",
+      "image": "images/Slide1.JPG",
+      "left": ["GAS", "2"],
+      "right": ["GAS", "2"]
+    },
+    {
+      "id": "2",
+      "image": "images/Slide2.JPG",
+      "sound": "sounds/sound_test.wav",
+      "left": ["RADIO", "3"],
+      "right": ["STEREO", "3"]
+    },
+    {
+      "id": "3",
+      "image": "images/Slide3.JPG",
+      "left": ["PARK", "4"],
+      "right": ["DRIFT", "4"]
+    },
+    {
+      "id": "4",
+      "image": "images/Slide4.JPG",
+      "left": ["GET OUT", "5"],
+      "right": ["GET OUT", "5"]
+    },
+    {
+      "id": "5",
+      "image": "images/Slide5.JPG",
+      "left": ["JIMMY'S", "6"],
+      "right": ["JIMMY'S", "6"]
+    },
+	{
+      "id": "6",
+      "image": "images/Slide6.JPG",
+      "left": ["JIMMY'S", "7"],
+      "right": ["JIMMY'S", "7"]
+    },
+	{
+      "id": "7",
+      "image": "images/Slide7.JPG",
+      "left": ["JIMMY'S", "8"],
+      "right": ["JIMMY'S", "8"]
+    },
+	{
+      "id": "8",
+      "image": "images/Slide8.JPG",
+      "left": ["JIMMY'S", "9"],
+      "right": ["JIMMY'S", "9"]
+    },
+	    {
+      "id": "9",
+      "image": "images/Slide9.JPG",
+      "left": ["JIMMY'S", "10"],
+      "right": ["JIMMY'S", "10"]
+    },
+	    {
+      "id": "10",
+      "image": "images/Slide10.JPG",
+      "left": ["JIMMY'S", "11"],
+      "right": ["JIMMY'S", "11"]
+    },
+	    {
+      "id": "11",
+      "image": "images/Slide11.JPG",
+      "left": ["JIMMY'S", "12"],
+      "right": ["JIMMY'S", "12"]
+    },
+	    {
+      "id": "12",
+      "image": "images/Slide12.JPG",
+      "left": ["JIMMY'S", "13"],
+      "right": ["JIMMY'S", "13"]
+    },
+	    {
+      "id": "13",
+      "image": "images/Slide13.JPG",
+      "left": ["JIMMY'S", "14"],
+      "right": ["JIMMY'S", "14"]
+    },
+	    {
+      "id": "14",
+      "image": "images/Slide14.JPG",
+      "left": ["JIMMY'S", "15"],
+      "right": ["JIMMY'S", "15"]
+    },
+	    {
+      "id": "15",
+      "image": "images/Slide15.JPG",
+      "left": ["JIMMY'S", "16"],
+      "right": ["JIMMY'S", "16"]
+    },
+	    {
+      "id": "16",
+      "image": "images/Slide16.JPG",
+      "left": ["JIMMY'S", "17"],
+      "right": ["JIMMY'S", "17"]
+    },
+	    {
+      "id": "17",
+      "image": "images/Slide17.JPG",
+      "left": ["JIMMY'S", "18"],
+      "right": ["JIMMY'S", "18"]
+    },
+	    {
+      "id": "18",
+      "image": "images/Slide18.JPG",
+      "left": ["JIMMY'S", "19"],
+      "right": ["JIMMY'S", "19"]
+    },
+	    {
+      "id": "19",
+      "image": "images/Slide19.JPG",
+      "left": ["JIMMY'S", "20"],
+      "right": ["JIMMY'S", "20"]
+    },
+	    {
+      "id": "20",
+      "image": "images/Slide20.JPG",
+      "left": ["JIMMY'S", "21"],
+      "right": ["JIMMY'S", "21"]
+    },
+	    {
+      "id": "21",
+      "image": "images/Slide21.JPG",
+      "left": ["JIMMY'S", "22"],
+      "right": ["JIMMY'S", "22"]
+    },
+	    {
+      "id": "22",
+      "image": "images/Slide22.JPG",
+      "left": ["JIMMY'S", "23"],
+      "right": ["JIMMY'S", "23"]
+    },
+	    {
+      "id": "23",
+      "image": "images/Slide23.JPG",
+      "left": ["JIMMY'S", "24"],
+      "right": ["JIMMY'S", "24"]
+    },
+	    {
+      "id": "24",
+      "image": "images/Slide24.JPG",
+      "left": ["JIMMY'S", "25"],
+      "right": ["JIMMY'S", "25"]
+    },
+	    {
+      "id": "25",
+      "image": "images/Slide25.JPG",
+      "left": ["JIMMY'S", "26"],
+      "right": ["JIMMY'S", "26"]
+    },
+	    {
+      "id": "26",
+      "image": "images/Slide26.JPG",
+      "left": ["JIMMY'S", "27"],
+      "right": ["JIMMY'S", "27"]
+    },
+	    {
+      "id": "27",
+      "image": "images/Slide27.JPG",
+      "left": ["JIMMY'S", "28"],
+      "right": ["JIMMY'S", "28"]
+    },
+	    {
+      "id": "28",
+      "image": "images/Slide28.JPG",
+      "left": ["JIMMY'S", "29"],
+      "right": ["JIMMY'S", "29"]
+    },
+	    {
+      "id": "29",
+      "image": "images/Slide29.JPG",
+      "left": ["JIMMY'S", "30"],
+      "right": ["JIMMY'S", "30"]
+    },
+	    {
+      "id": "30",
+      "image": "images/Slide30.JPG",
+      "left": ["JIMMY'S", "31"],
+      "right": ["JIMMY'S", "31"]
+    },
+	    {
+      "id": "31",
+      "image": "images/Slide31.JPG",
+      "left": ["JIMMY'S", "32"],
+      "right": ["JIMMY'S", "32"]
+    },
+	    {
+      "id": "32",
+      "image": "images/Slide32.JPG",
+      "left": ["JIMMY'S", "33"],
+      "right": ["JIMMY'S", "33"]
+    },
+	    {
+      "id": "33",
+      "image": "images/Slide33.JPG",
+      "left": ["JIMMY'S", "34"],
+      "right": ["JIMMY'S", "34"]
+    },
+	    {
+      "id": "34",
+      "image": "images/Slide34.JPG",
+      "left": ["JIMMY'S", "35"],
+      "right": ["JIMMY'S", "35"]
+    },
+	    {
+      "id": "35",
+      "image": "images/Slide35.JPG",
+      "left": ["JIMMY'S", "36"],
+      "right": ["JIMMY'S", "36"]
+    },
+	    {
+      "id": "36",
+      "image": "images/Slide36.JPG",
+      "left": ["JIMMY'S", "37"],
+      "right": ["JIMMY'S", "37"]
+    },
+	    {
+      "id": "37",
+      "image": "images/Slide37.JPG",
+      "left": ["JIMMY'S", "38"],
+      "right": ["JIMMY'S", "38"]
+    },
+	    {
+      "id": "38",
+      "image": "images/Slide38.JPG",
+      "left": ["JIMMY'S", "39"],
+      "right": ["JIMMY'S", "39"]
+    },
+	    {
+      "id": "39",
+      "image": "images/Slide39.JPG",
+      "left": ["JIMMY'S", "40"],
+      "right": ["JIMMY'S", "40"]
+    },
+	    {
+      "id": "40",
+      "image": "images/Slide40.JPG",
+      "left": ["JIMMY'S", "41"],
+      "right": ["JIMMY'S", "41"]
+    },
+	    {
+      "id": "41",
+      "image": "images/Slide41.JPG",
+      "left": ["JIMMY'S", "42"],
+      "right": ["JIMMY'S", "42"]
+    },
+	    {
+      "id": "42",
+      "image": "images/Slide42.JPG",
+      "left": ["JIMMY'S", "43"],
+      "right": ["JIMMY'S", "43"]
+    },
+	    {
+      "id": "43",
+      "image": "images/Slide43.JPG",
+      "left": ["JIMMY'S", "44"],
+      "right": ["JIMMY'S", "44"]
+    },
+	    {
+      "id": "44",
+      "image": "images/Slide44.JPG",
+      "left": ["JIMMY'S", "45"],
+      "right": ["JIMMY'S", "45"]
+    },
+	    {
+      "id": "45",
+      "image": "images/Slide45.JPG",
+      "left": ["JIMMY'S", "46"],
+      "right": ["JIMMY'S", "46"]
+    },
+	    {
+      "id": "46",
+      "image": "images/Slide46.JPG",
+      "left": ["JIMMY'S", "47"],
+      "right": ["JIMMY'S", "47"]
+    },
+	    {
+      "id": "47",
+      "image": "images/Slide47.JPG",
+      "left": ["JIMMY'S", "48"],
+      "right": ["JIMMY'S", "48"]
+    },
+	    {
+      "id": "48",
+      "image": "images/Slide48.JPG",
+      "left": ["JIMMY'S", "49"],
+      "right": ["JIMMY'S", "49"]
+    },
+	    {
+      "id": "49",
+      "image": "images/Slide49.JPG",
+      "left": ["JIMMY'S", "50"],
+      "right": ["JIMMY'S", "50"]
+    },
+	    {
+      "id": "50",
+      "image": "images/Slide50.JPG",
+      "left": ["JIMMY'S", "51"],
+      "right": ["JIMMY'S", "51"]
+    },
+	    {
+      "id": "51",
+      "image": "images/Slide51.JPG",
+      "left": ["JIMMY'S", "52"],
+      "right": ["JIMMY'S", "52"]
+    },
+	    {
+      "id": "52",
+      "image": "images/Slide52.JPG",
+      "left": ["JIMMY'S", "53"],
+      "right": ["JIMMY'S", "53"]
+    },
+	    {
+      "id": "53",
+      "image": "images/Slide53.JPG",
+      "left": ["JIMMY'S", "54"],
+      "right": ["JIMMY'S", "54"]
+    },
+	    {
+      "id": "54",
+      "image": "images/Slide54.JPG",
+      "left": ["JIMMY'S", "55"],
+      "right": ["JIMMY'S", "55"]
+    },
+	    {
+      "id": "55",
+      "image": "images/Slide55.JPG",
+      "left": ["JIMMY'S", "56"],
+      "right": ["JIMMY'S", "56"]
+    },
+	    {
+      "id": "56",
+      "image": "images/Slide56.JPG",
+      "left": ["JIMMY'S", "57"],
+      "right": ["JIMMY'S", "57"]
+    },
+	    {
+      "id": "57",
+      "image": "images/Slide57.JPG",
+      "left": ["JIMMY'S", "58"],
+      "right": ["JIMMY'S", "58"]
+    },
+	    {
+      "id": "58",
+      "image": "images/Slide58.JPG",
+      "left": ["JIMMY'S", "59"],
+      "right": ["JIMMY'S", "59"]
+    },
+	    {
+      "id": "59",
+      "image": "images/Slide59.JPG",
+      "left": ["JIMMY'S", "60"],
+      "right": ["JIMMY'S", "60"]
+    },
+	    {
+      "id": "60",
+      "image": "images/Slide60.JPG",
+      "left": ["JIMMY'S", "61"],
+      "right": ["JIMMY'S", "61"]
+    },
+	    {
+      "id": "61",
+      "image": "images/Slide61.JPG",
+      "left": ["JIMMY'S", "62"],
+      "right": ["JIMMY'S", "62"]
+    },
+	    {
+      "id": "62",
+      "image": "images/Slide62.JPG",
+      "left": ["JIMMY'S", "63"],
+      "right": ["JIMMY'S", "63"]
+    },
+	    {
+      "id": "63",
+      "image": "images/Slide63.JPG",
+      "left": ["JIMMY'S", "64"],
+      "right": ["JIMMY'S", "64"]
+    },
+	    {
+      "id": "64",
+      "image": "images/Slide64.JPG",
+      "left": ["JIMMY'S", "65"],
+      "right": ["JIMMY'S", "65"]
+    },
+	    {
+      "id": "65",
+      "image": "images/Slide65.JPG",
+      "left": ["JIMMY'S", "66"],
+      "right": ["JIMMY'S", "66"]
+    },
+	    {
+      "id": "66",
+      "image": "images/Slide66.JPG",
+      "left": ["JIMMY'S", "67"],
+      "right": ["JIMMY'S", "67"]
+    },
+	    {
+      "id": "67",
+      "image": "images/Slide67.JPG",
+      "left": ["JIMMY'S", "68"],
+      "right": ["JIMMY'S", "68"]
+    },
+	    {
+      "id": "68",
+      "image": "images/Slide68.JPG",
+      "left": ["JIMMY'S", "69"],
+      "right": ["JIMMY'S", "69"]
+    },
+	    {
+      "id": "69",
+      "image": "images/Slide69.JPG",
+      "left": ["JIMMY'S", "70"],
+      "right": ["JIMMY'S", "70"]
+    },
+	    {
+      "id": "70",
+      "image": "images/Slide70.JPG",
+      "left": ["JIMMY'S", "71"],
+      "right": ["JIMMY'S", "71"]
+    },
+	    {
+      "id": "71",
+      "image": "images/Slide71.JPG",
+      "left": ["JIMMY'S", "72"],
+      "right": ["JIMMY'S", "72"]
+    },
+	    {
+      "id": "72",
+      "image": "images/Slide72.JPG",
+      "left": ["JIMMY'S", "73"],
+      "right": ["JIMMY'S", "73"]
+    },
+	    {
+      "id": "73",
+      "image": "images/Slide73.JPG",
+      "left": ["JIMMY'S", "74"],
+      "right": ["JIMMY'S", "74"]
+    },
+	    {
+      "id": "74",
+      "image": "images/Slide74.JPG",
+      "left": ["JIMMY'S", "75"],
+      "right": ["JIMMY'S", "75"]
+    },
+	    {
+      "id": "75",
+      "image": "images/Slide75.JPG",
+      "left": ["JIMMY'S", "76"],
+      "right": ["JIMMY'S", "76"]
+    },
+	    {
+      "id": "76",
+      "image": "images/Slide76.JPG",
+      "left": ["JIMMY'S", "77"],
+      "right": ["JIMMY'S", "77"]
+    },
+	    {
+      "id": "77",
+      "image": "images/Slide77.JPG",
+      "left": ["JIMMY'S", "78"],
+      "right": ["JIMMY'S", "78"]
+    },
+	    {
+      "id": "78",
+      "image": "images/Slide78.JPG",
+      "left": ["JIMMY'S", "79"],
+      "right": ["JIMMY'S", "79"]
+    },
+	    {
+      "id": "79",
+      "image": "images/Slide79.JPG",
+      "left": ["JIMMY'S", "80"],
+      "right": ["JIMMY'S", "80"]
+    },
+	    {
+      "id": "80",
+      "image": "images/Slide80.JPG",
+      "left": ["JIMMY'S", "81"],
+      "right": ["JIMMY'S", "81"]
+    },
+	    {
+      "id": "81",
+      "image": "images/Slide81.JPG",
+      "left": ["JIMMY'S", "82"],
+      "right": ["JIMMY'S", "82"]
+    },
+	    {
+      "id": "82",
+      "image": "images/Slide82.JPG",
+      "left": ["JIMMY'S", "83"],
+      "right": ["JIMMY'S", "83"]
+    },
+	    {
+      "id": "83",
+      "image": "images/Slide83.JPG",
+      "left": ["JIMMY'S", "84"],
+      "right": ["JIMMY'S", "84"]
+    },
+	    {
+      "id": "84",
+      "image": "images/Slide84.JPG",
+      "left": ["JIMMY'S", "85"],
+      "right": ["JIMMY'S", "85"]
+    },
+	    {
+      "id": "85",
+      "image": "images/Slide85.JPG",
+      "left": ["JIMMY'S", "86"],
+      "right": ["JIMMY'S", "86"]
+    },
+	    {
+      "id": "86",
+      "image": "images/Slide86.JPG",
+      "left": ["JIMMY'S", "87"],
+      "right": ["JIMMY'S", "87"]
+    },
+	    {
+      "id": "87",
+      "image": "images/Slide87.JPG",
+      "left": ["JIMMY'S", "88"],
+      "right": ["JIMMY'S", "88"]
+    },
+	    {
+      "id": "88",
+      "image": "images/Slide88.JPG",
+      "left": ["JIMMY'S", "89"],
+      "right": ["JIMMY'S", "89"]
+    },
+	    {
+      "id": "89",
+      "image": "images/Slide89.JPG",
+      "left": ["JIMMY'S", "90"],
+      "right": ["JIMMY'S", "90"]
+    },
+	    {
+      "id": "90",
+      "image": "images/Slide90.JPG",
+      "left": ["JIMMY'S", "91"],
+      "right": ["JIMMY'S", "91"]
+    },
+	    {
+      "id": "91",
+      "image": "images/Slide91.JPG",
+      "left": ["JIMMY'S", "92"],
+      "right": ["JIMMY'S", "92"]
+    },
+	    {
+      "id": "92",
+      "image": "images/Slide92.JPG",
+      "left": ["JIMMY'S", "93"],
+      "right": ["JIMMY'S", "93"]
+    },
+	    {
+      "id": "93",
+      "image": "images/Slide93.JPG",
+      "left": ["JIMMY'S", "94"],
+      "right": ["JIMMY'S", "94"]
+    },
+	    {
+      "id": "94",
+      "image": "images/Slide94.JPG",
+      "left": ["JIMMY'S", "95"],
+      "right": ["JIMMY'S", "95"]
+    },
+	    {
+      "id": "95",
+      "image": "images/Slide95.JPG",
+      "left": ["JIMMY'S", "96"],
+      "right": ["JIMMY'S", "96"]
+    },
+	    {
+      "id": "96",
+      "image": "images/Slide96.JPG",
+      "left": ["JIMMY'S", "97"],
+      "right": ["JIMMY'S", "97"]
+    },
+    {
+      "id": "97",
+      "image": "images/Slide97.JPG",
+      "left": ["EXIT", "#exit"],
+      "right": ["RESTART", "#restart"]
+    }
+  ]
+}
